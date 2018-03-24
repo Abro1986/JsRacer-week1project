@@ -1,9 +1,21 @@
+div {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 209px 0 0px 0;
+	clear: none;
+
+}
+
 img.rainbow {
+	
 	width: 200px;
 	margin: 0;
 }
 
 img.brown {
+	float: left;
 	width: 200px;
 	margin: 0;
+
 }
