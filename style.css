@@ -1,20 +1,26 @@
-div {
+#finish {
 	position: absolute;
 	top: 0;
 	right: 0;
-	padding: 209px 0 0px 0;
+	padding: 209px 0 209px 0;
 	clear: none;
 
 }
 
-img.rainbow {
-	
+
+
+#rainbow {
+	position: absolute;
+	left: 0;
 	width: 200px;
 	margin: 0;
 }
 
-img.brown {
-	float: left;
+#brown {
+	position: absolute;
+	top: 200px;
+	left: 0;
+	
 	width: 200px;
 	margin: 0;
 
